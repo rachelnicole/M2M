@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/amjadsde/M2M/issues"
   },
-  "homepage": "https://github.com/amjadsde/M2M#readme"
+  "homepage": "https://github.com/amjadsde/M2M#readme",
+  "dependencies": {
+    "sleep": "^6.3.0"
+  }
 }
