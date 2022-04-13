@@ -4,7 +4,7 @@ class Car {
     this.speed = speed;
     this.location = location;
   }
-  increasseSpeed() {
+  increaseSpeed() {
     this.speed++;
     return `Increase speed to ${this.speed}`;
   }
